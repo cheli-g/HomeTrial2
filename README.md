@@ -1,7 +1,8 @@
 # HomeTrial2
-home trial, by nodejs
-על הלקוח לפתוח את הפרויקט הראשי בVSVODE ולהריץ NPM START
-לאחר מכן עליו לגשת לPOSTMAN ולעשות את הניתוב לפי הצורך.
+
+על הלקוח לפתוח את הפרויקט הראשי בVSVODE ולהריץ
+NPM START
+לאחר מכן עליו לגשת לPOSTMAN ולעשות את הניתובים הבאים.
 אם ברצונו לגשת/להוסיף בUSERS הוא יכניס בשורה localhost:3740/users/ וישנה את סוג הבקשה- GET/ /POST או localhost:3740/user/userId אם ברצונו להציג משתמש ספציפי על פי הID שלו.
 
 אם ברצונו לגשת / להוסיף בCORONA הוא יכניס בשורה localhost:3740/corona/ וישנה את סוג הבקשה GET/ POST או localhost:3740/corona/dataId אם ברצונו לסנן למידע מסוים על פי הID שלו
